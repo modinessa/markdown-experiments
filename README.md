@@ -2,6 +2,19 @@
 
 Markdown experiments for LinkedIn training
 
+
+## Learning goals
+1. Have fun
+2. Learn gitlab
+3. Learn markdown
+4. Prifit
+
+
+
+
+
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
